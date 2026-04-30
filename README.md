@@ -9,7 +9,7 @@ I am a highly motivated IT graduate from the Northern University of Malaysia (UU
     *   **Backend & Frameworks:** Spring Boot
     *   **Databases:** MySQL, SQL Server
     *   **Tools & Deployment:** Docker, JetBrains IDEs, VSCode
-*   🚀 **Current Status:** Actively looking for full-time software engineering opportunities (Open to IT roles in Singapore!).
+*   🚀 **Current Status:** Actively looking for full-time software engineering opportunities (Open to roles in Singapore!).
 *   📫 **How to reach me:** [https://www.linkedin.com/in/chong-yong-xuan-b57232316/]
 <!--
 **CYX0410/CYX0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
