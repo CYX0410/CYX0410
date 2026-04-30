@@ -4,7 +4,7 @@ I am a highly motivated IT graduate from the Northern University of Malaysia (UU
 
 *   🎓 **Background:** IT Graduate (UUM). Recently completed a 6-month IT internship, gaining hands-on experience in business automation and technical problem-solving.
 *   💻 **Tech Stack:**
-    *   **Languages:** Java, JavaScript, Node.js, C#
+    *   **Languages:** Java, JavaScript, Node.js
     *   **Frontend:** Angular, Ionic Framework
     *   **Backend & Frameworks:** Spring Boot
     *   **Databases:** MySQL, SQL Server
