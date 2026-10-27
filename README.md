@@ -6,7 +6,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=cyx0410&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F103051564%3Fu%3D40ba6c1405a587c7a516055077d0636e9dcb2d50%26v%3D4&variant=living-identity&label=Chong%20Yong%20Xuan&v=wow-living-identity-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/hero?username=cyx0410&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F103051564%3Fu%3D40ba6c1405a587c7a516055077d0636e9dcb2d50%26v%3D4&variant=living-identity&label=Chong%20Yong%20Xuan&v=wow-living-identity-1&mode=dark" width="100%" alt="Chong Yong Xuan animated Living Identity portrait and ASCII name" />
 </picture>
-<p><strong>Frontend or full-stack engineer</strong> · Malaysia</p>
+<p><strong>Entry-Level Software Engineer</strong> · Malaysia</p>
 <p>Just a beginner in IT field</p>
 <p><a href="https://github.com/cyx0410">GitHub</a></p>
 </div>
