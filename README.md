@@ -115,35 +115,6 @@ Backend Development
 ├── CI/CD Fundamentals
 └── Software Testing & Clean Code
 ```
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CYX0410&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYX0410&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
-### 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=CYX0410&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CYX0410&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-
-</div>
-
 ---
 
 ## 🤝 Connect With Me
