@@ -8,8 +8,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=CYX0410&color=blueviolet&style=for-the-badge)
-
 </div>
 
 ---
